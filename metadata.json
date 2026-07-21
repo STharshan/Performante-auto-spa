@@ -1,0 +1,6 @@
+{
+  "name": "Performante Auto Spa",
+  "description": "Premium car and bike detailing spa offering enhanced detailing, ceramic coating, and deep cabin cleaning with luxurious showroom perfection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
